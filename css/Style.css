@@ -1,0 +1,72 @@
+form{
+
+	margin: 100px 700px 0 800px;
+	background:#3437;
+	padding: 0 10px 10px 10px;
+	border-radius: 10px;
+	color: white;
+ 	font-family: Poppins-Regular, sans-serif;
+
+}
+
+.nascimento{
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+.idade{
+
+	margin-bottom: 10px;
+}
+.telefone{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.npet{
+
+	margin-bottom: 10px;
+}
+.ipet{
+
+	margin-bottom: 10px;
+}
+.raca{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.sexo{
+
+	margin-bottom: 10px;
+}
+.botoes{
+
+	margin: 10px;
+	text-transform: uppercase;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+	font-family: arial;
+	font-size: 14px;
+	box-shadow: 0 5px 0 #9966ff;
+	background-color: #9999ff;
+	border-radius: 5px;
+	
+
+}
+
+.titulo{
+	
+	height: 20px;
+	margin-bottom: 30px;
+}
+
+#cadastro{
+
+		background-position: center;
+	
+}
+body{
+
+	background: url(../img/pets.jpg);
+}
